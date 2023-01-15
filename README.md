@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: britnebinu02@gmail.com...
 -->
 <h1 align="center">Hi 👋, I'm Britne Binu BM</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 - 🔭 I’m currently Stdying in **PSG College of Technology**
 
 - 🌱 I’m currently learning **React and Flutter**
